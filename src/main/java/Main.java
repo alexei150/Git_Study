@@ -7,10 +7,7 @@ public class Main {
 
         System.out.println("MY");
         System.out.println("MY");
-        System.out.println("MY");
-        System.out.println("MY");
-        System.out.println("MY");
-        System.out.println("MY");
+
 
 
         System.out.println("development");
@@ -20,6 +17,8 @@ public class Main {
         System.out.println("RKK local");
         System.out.println("RKK changes");
         System.out.println("RKK changes2");
+
+        System.out.println("side changes1");
 
 
     }
