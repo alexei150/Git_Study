@@ -18,6 +18,8 @@ public class Main {
         System.out.println("development");
 
         System.out.println("RKK local");
+        System.out.println("New master changes");
+        System.out.println("New master changes2");
 
 
     }
