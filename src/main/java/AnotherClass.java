@@ -3,6 +3,11 @@ public class AnotherClass {
         System.out.println("master changes 5 ");
         System.out.println("master changes 6 ");
         System.out.println("master changes 700 ");
+        System.out.println("master changes 7000 ");
+        System.out.println("master changes 7000 ");
+        System.out.println("master changes 7000 ");
+        System.out.println("master changes 8000 ");
+
 
     }
 }
