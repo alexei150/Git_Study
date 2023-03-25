@@ -8,6 +8,7 @@ public class AnotherClass {
         System.out.println("master changes commited ");
         System.out.println("master changes head forward ");
         System.out.println("master changes head forward 1 ");
+        System.out.println("master changes head forward master ");
 
     }
 }
