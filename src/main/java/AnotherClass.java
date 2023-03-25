@@ -9,6 +9,8 @@ public class AnotherClass {
         System.out.println("master changes 8000 ");
         System.out.println("master changes 9000 ");
         System.out.println("master changes 10000 ");
+        System.out.println("master changes 11000 ");
+        System.out.println("master changes 12000 ");
 
 
     }
