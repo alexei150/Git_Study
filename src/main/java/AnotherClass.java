@@ -6,6 +6,7 @@ public class AnotherClass {
         System.out.println("master changes 3 ");
         System.out.println("master changes 4 ");
         System.out.println("master changes commited ");
+        System.out.println("master changes head forward ");
 
     }
 }
