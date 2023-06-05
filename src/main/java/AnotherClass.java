@@ -16,6 +16,8 @@ public class AnotherClass {
         System.out.println("master changes head forward master 5 ");
         System.out.println("master changes head forward master 6 ");
         System.out.println("master changes head forward master 7 ");
+        System.out.println("master changes head forward master 8- ");
+        System.out.println("master changes head forward master 9- ");
 
     }
 }
