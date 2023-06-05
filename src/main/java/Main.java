@@ -1,31 +1,11 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("master");
-        System.out.println("master");
-        System.out.println("master");
-
-        System.out.println("MY");
-        System.out.println("MY");
-
-
-
-        System.out.println("development");
-        System.out.println("development");
-        System.out.println("development");
-
-        System.out.println("RKK local");
-        System.out.println("RKK changes");
-        System.out.println("RKK changes2");
-
-        System.out.println("aside changes1");
-        System.out.println("aside changes2");
-
-        System.out.println("aside changes5");
-        System.out.println("aside changes5");
-
-
-
+        System.out.println("MY 1");
+        System.out.println("MY 2");
+        System.out.println("MY 3");
+        System.out.println("MY 4");
+        System.out.println("MY 5");
 
     }
 }
