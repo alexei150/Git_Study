@@ -1,7 +1,8 @@
 public class Both {
     public static void main(String[] args) {
 
-        System.out.println("Anoher");
+        System.out.println("Master");
+
     }
 
 }
